@@ -21,8 +21,8 @@ Right aligned columns
 
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
-[x] OK飞洒地方
-[ ] fsdgdsgfsd苟富贵
+- [x] OK飞洒地方
+- [ ] fsdgdsgfsd苟富贵
 
 [ ] TODO
 [x] DONE
