@@ -24,8 +24,8 @@ Right aligned columns
 - [x] OK飞洒地方
 - [ ] fsdgdsgfsd苟富贵
 
-[ ] TODO
-[x] DONE
+- [ ] TODO
+- [x] DONE
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 
